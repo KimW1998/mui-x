@@ -54,7 +54,7 @@ const nlNLGrid: Partial<GridLocaleText> = {
   columnsManagementNoColumns: 'Geen kolommen',
   columnsManagementShowHideAllText: 'Toon/Verberg Alle',
   columnsManagementReset: 'Reset',
-  // columnsManagementDeleteIconLabel: 'Clear',
+  columnsManagementDeleteIconLabel: 'Wissen',
 
   // Filter panel text
   filterPanelAddFilter: 'Filter toevoegen',
@@ -70,9 +70,9 @@ const nlNLGrid: Partial<GridLocaleText> = {
 
   // Filter operators text
   filterOperatorContains: 'bevat',
-  // filterOperatorDoesNotContain: 'does not contain',
+  filterOperatorDoesNotContain: 'bevat niet',
   filterOperatorEquals: 'gelijk aan',
-  // filterOperatorDoesNotEqual: 'does not equal',
+  filterOperatorDoesNotEqual: 'is niet gelijk aan',
   filterOperatorStartsWith: 'begint met',
   filterOperatorEndsWith: 'eindigt met',
   filterOperatorIs: 'is',
@@ -93,9 +93,9 @@ const nlNLGrid: Partial<GridLocaleText> = {
 
   // Header filter operators text
   headerFilterOperatorContains: 'Bevat',
-  // headerFilterOperatorDoesNotContain: 'Does not contain',
+  headerFilterOperatorDoesNotContain: 'bevat niet',
   headerFilterOperatorEquals: 'Gelijk aan',
-  // headerFilterOperatorDoesNotEqual: 'Does not equal',
+  headerFilterOperatorDoesNotEqual: 'is niet gelijk aan',
   headerFilterOperatorStartsWith: 'Begint met',
   headerFilterOperatorEndsWith: 'Eindigt met',
   headerFilterOperatorIs: 'Is',
